@@ -1,4 +1,0 @@
-{
-  "./**/*.{json,css,scss,md}": "yarn prettier:fix",
-  "./**/*.{js,jsx,ts,tsx}": "yarn format"
-}
