@@ -1,7 +1,9 @@
+import AuthPage from './pages/AuthPage';
+
 function App() {
   return (
     <div>
-      <h1 className='text-3xl'>CHAT</h1>
+      <AuthPage />
     </div>
   );
 }
